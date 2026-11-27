@@ -1,4 +1,4 @@
-# vigilant-octo-lamp  
+# vigilant-octo-lamp
 
 A short description of what this project does.
 
